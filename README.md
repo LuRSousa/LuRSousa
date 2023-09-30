@@ -1,8 +1,8 @@
 # Boa Noite!
 
 <div>
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api?username=LuRSousa&show_icons=true&theme=dark">
-  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuRSousa&layout=compact&theme=dark">
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=LuRSousa&show_icons=true&theme=dark">
+  <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuRSousa&layout=compact&theme=dark">
 </div>
 
 <div style="display: inline-block"> <br>
