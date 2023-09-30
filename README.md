@@ -10,7 +10,6 @@
     <h1 align="center">Tecnologias:</h1>
     <img align="center" height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img align="center" height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    <img align="center" height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   </div>
   <div style="display: inline-block">
     <h1 align="center">Softwares:</h1>
