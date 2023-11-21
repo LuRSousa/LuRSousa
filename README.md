@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=35&center=true&vCenter=true&width=1000&lines=Good+Night,+I'm+Lucas;I'm+16+years+old;I'm+from+Brazil;I+study+internet+computing+at+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=35&center=true&vCenter=true&width=1000&lines=Good+Night,+I'm+Lucas;I'm+16+years+old;I'm+from+Brazil;I+study+web+development+at+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
   <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=LuRSousa&show_icons=true&theme=dark">
