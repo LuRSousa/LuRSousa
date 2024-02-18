@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=35&center=true&vCenter=true&width=1000&lines=Good+Night,+I'm+Lucas;I'm+16+years+old;I'm+from+Brazil;I+study+web+development+at+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=15&center=true&vCenter=true&width=1000&lines=Boa+Noite,+Sou+Lucas;Tenho+16+anos;Sou+do+Brasil;Eu+estudo+desenvolvimento+web+na+ETEC;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=35&center=true&vCenter=true&width=1000&lines=Good+Night!;I'm+Lucas+and+I'm+16+years+old;Be+Welcome+to+my+github!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=15&center=true&vCenter=true&width=1000&lines=Boa+Noite!;Me+chamo+Lucas+e+tenho+16+anos;Seja+bem+Vindo+ao+meu+github!+:%29)](https://git.io/typing-svg)
 
+### Some stats:
 <div>
   <img height="170em" width="420em" src="https://github-readme-stats.vercel.app/api?username=LuRSousa&show_icons=true&theme=dark">
   <img height="170em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuRSousa&layout=compact&theme=dark">
