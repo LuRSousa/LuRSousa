@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=35&center=true&vCenter=true&width=1000&lines=Good+Night!;I'm+Lucas+and+I'm+16+years+old;Be+Welcome+to+my+github!+:%29)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=15&center=true&vCenter=true&width=1000&lines=Boa+Noite!;Me+chamo+Lucas+e+tenho+16+anos;Seja+bem+Vindo+ao+meu+github!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=35&center=true&vCenter=true&width=1000&lines=Good+Night!;I'm+Lucas+and+I'm+18+years+old;Be+Welcome+to+my+github!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=15&center=true&vCenter=true&width=1000&lines=Boa+Noite!;Me+chamo+Lucas+e+tenho+18+anos;Seja+bem+Vindo+ao+meu+github!+:%29)](https://git.io/typing-svg)
 
 ### Some stats:
 <center>
