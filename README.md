@@ -1,32 +1,35 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=35&center=true&vCenter=true&width=1000&lines=Good+Night!;I'm+Lucas+and+I'm+18+years+old;Be+Welcome+to+my+github!+:%29)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6e6e6&size=15&center=true&vCenter=true&width=1000&lines=Boa+Noite!;Me+chamo+Lucas+e+tenho+18+anos;Seja+bem+Vindo+ao+meu+github!+:%29)](https://git.io/typing-svg)
+### Sobre Mim
+Desenvolvedor focado em criar experiências digitais eficientes e visuais. Recentemente concluí meu TCC com o projeto **LATinSP**, uma plataforma fullstack de mapeamento cultural.
 
-### Some stats:
-<center>
-  <div>
-    <img height="170em" width="420em" src="https://github-readme-stats.vercel.app/api?username=LuRSousa&show_icons=true&theme=dark">
-    <img height="170em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuRSousa&layout=compact&theme=dark">
-  </div>
-</center>
-
-### Main skills:
+### Tecnologias & Ferramentas
+**Linguagens e Frameworks:**
 <div>
-  <img height="35em" width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="35em" width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="35em" width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img height="35em" width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-  <img height="35em" width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-### Tools:
+**Ferramentas:**
 <div>
-  <img height="35em" width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img height="35em" width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img height="35em" width="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-### Studying in this moment:
-Programming Logic; <br>
-Web Development; <br>
-Mobile Development; <br>
-Cloud Development; 
+### Projetos em Destaque
+* **[LATinSP](https://github.com/LuRSousa/LATinSP)**: Mapa Interativo Fullstack (TCC).
+* **[Pokédex](https://github.com/LuRSousa/Pokedex)**: Consumo de API e manipulação de DOM.
+
+### Estatísticas
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuRSousa&show_icons=true&theme=dark" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuRSousa&layout=compact&theme=dark" />
+</p>
+
+### Atualmente estudando:
+* Lógica de Programação Avançada
+* Desenvolvimento Mobile
+* Cloud Computing
