@@ -5,16 +5,21 @@ Desenvolvedor focado em criar experiências digitais eficientes e visuais. Recen
 **Linguagens e Frameworks:**
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
+**Plataformas e CMS:**
+<div>
+  <img src="https://img.shields.io/badge/Wordpress-007ACC?style=for-the-badge&logo=wordpress&logoColor=white">
+</div>
+
 **Ferramentas:**
 <div>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vs-code&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
