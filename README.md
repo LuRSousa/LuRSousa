@@ -25,7 +25,7 @@ Desenvolvedor focado em criar experiências digitais eficientes e visuais. Recen
 </div>
 
 ### Projetos em Destaque
-* **[LATinSP](https://github.com/LuRSousa/LATinSP)**: Mapa Interativo Fullstack (TCC).
+* **[LATinSP](https://github.com/LuRSousa/LATinSP)**: Plataforma Fullstack completa desenvolvida como TCC, integrando mapas interativos, PHP/MVC e MySQL para valorização cultural.
 * **[Pokédex](https://github.com/LuRSousa/Pokedex)**: Consumo de API e manipulação de DOM.
 
 ### Estatísticas
