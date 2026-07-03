@@ -1,8 +1,8 @@
 ### Sobre Mim
-Desenvolvedor focado em criar experiências digitais eficientes e visuais. Recentemente concluí meu TCC com o projeto **LATinSP**, uma plataforma fullstack de mapeamento cultural.
+Desenvolvedor Fullstack cursando Ciência da Computação na FIAP (1º semestre). Concluí meu TCC com o projeto LATinSP, uma plataforma fullstack de mapeamento cultural, e sigo construindo projetos que combinam lógica sólida com experiências digitais eficientes e visuais.
 
 ### Tecnologias & Ferramentas
-**Linguagens e Frameworks:**
+**Stack Principal:**
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
@@ -12,9 +12,16 @@ Desenvolvedor focado em criar experiências digitais eficientes e visuais. Recen
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
+**Aprendendo Atualmente:**
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</div>
+
 **Plataformas e CMS:**
 <div>
   <img src="https://img.shields.io/badge/Wordpress-007ACC?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 </div>
 
 **Ferramentas:**
@@ -26,15 +33,11 @@ Desenvolvedor focado em criar experiências digitais eficientes e visuais. Recen
 
 ### Projetos em Destaque
 * **[LATinSP](https://github.com/LuRSousa/LATinSP)**: Plataforma Fullstack completa desenvolvida como TCC, integrando mapas interativos, PHP/MVC e MySQL para valorização cultural.
-* **[Pokédex](https://github.com/LuRSousa/Pokedex)**: Consumo de API e manipulação de DOM.
-
-### Estatísticas
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=LuRSousa&show_icons=true&theme=dark" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuRSousa&layout=compact&theme=dark" />
-</p>
+* **[Pokédex](https://github.com/LuRSousa/Pokedex)**: Aplicação Front-end que consome a PokéAPI para exibir informações dinâmicas, praticando requisições assíncronas com Async/Await e manipulação de DOM.
+* **[ChargeGrid Intelligence](https://github.com/LuRSousa/ChargeGridIntelligence-Sprint2)**:  Sistema de gerenciamento de recarga de veículos elétricos desenvolvido para o GoodWe Challenge (FIAP). Implementa Dynamic Load Balancing, simulação do protocolo OCPP, tarifação dinâmica e módulo de decisão com IA.
 
 ### Atualmente estudando:
-* Lógica de Programação Avançada
-* Desenvolvimento Mobile
-* Cloud Computing
+* Algoritmos e estruturas de dados com C e Python
+* Fundamentos de Inteligência Artificial e Prompt Engineering
+* Arquitetura de computadores e fundamentos de Ciência da Computação
+* Energias renováveis e sustentabilidade aplicada à tecnologia
