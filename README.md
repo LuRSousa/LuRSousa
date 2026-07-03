@@ -34,7 +34,7 @@ Desenvolvedor Fullstack cursando Ciência da Computação na FIAP (1º semestre)
 ### Projetos em Destaque
 * **[LATinSP](https://github.com/LuRSousa/LATinSP)**: Plataforma Fullstack completa desenvolvida como TCC, integrando mapas interativos, PHP/MVC e MySQL para valorização cultural.
 * **[Pokédex](https://github.com/LuRSousa/Pokedex)**: Aplicação Front-end que consome a PokéAPI para exibir informações dinâmicas, praticando requisições assíncronas com Async/Await e manipulação de DOM.
-* **[ChargeGrid Intelligence](https://github.com/LuRSousa/ChargeGridIntelligence-Sprint2)**:  Sistema de gerenciamento de recarga de veículos elétricos desenvolvido para o GoodWe Challenge (FIAP). Implementa Dynamic Load Balancing, simulação do protocolo OCPP, tarifação dinâmica e módulo de decisão com IA.
+* **[ChargeGrid Intelligence](https://github.com/LuRSousa/ChargeGrid-Intelligence)**:  Sistema de gerenciamento de recarga de veículos elétricos desenvolvido para o GoodWe Challenge (FIAP). Implementa Dynamic Load Balancing, simulação do protocolo OCPP, tarifação dinâmica e módulo de decisão com IA.
 
 ### Atualmente estudando:
 * Algoritmos e estruturas de dados com C e Python
